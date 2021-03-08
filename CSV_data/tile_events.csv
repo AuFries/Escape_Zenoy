@@ -1,0 +1,3 @@
+l,"item_manager.item_dict['l'].update_visibility(player)"
+.,"item_manager.item_dict['.'].give_gold(player)"
+c,"item_manager.item_dict['c'].increase_luck(player)"
